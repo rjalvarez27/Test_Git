@@ -1,2 +1,1 @@
-# Test_Git
-Git Actions Testing
+ IC & testing
