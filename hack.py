@@ -1,6 +1,6 @@
 def restar():
 
-    return 2
+    return 1
  
 def lista():
 
