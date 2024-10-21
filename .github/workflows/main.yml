@@ -5,9 +5,7 @@ on:
    branches:
      - develop
      - main
-
-    
-
+     
 jobs:
   welcome:
      runs-on: ubuntu-latest
